@@ -4,12 +4,15 @@
 
 # Features
 
--login/sign up page
+-login form
+-sign up form
 -sign up and sign in screen
 -once logged i redirect to the browse page
 
 -Browse (comes after authentication)
 -Header
+-logo
+-login form
 -Main movie - Trailer in Background - Title and Description - Play button
 
     -Movie suggestions
